@@ -1,0 +1,57 @@
+body {
+   /* background-color: rgb(36, 124, 50);*/
+}
+
+img:nth-child(2) {
+    width: 100px;
+}
+
+.items tbody tr:nth-of-type(odd) {
+    background-color: rgb(36, 124, 50);
+}
+
+.warning {
+    /*background-color: red;*/
+}
+
+table {/*
+    background-color: green;*/
+}
+
+
+table {
+  /*  background-color: blue;*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
